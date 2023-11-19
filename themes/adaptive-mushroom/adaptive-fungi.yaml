@@ -1,7 +1,7 @@
 # Originally a theme from Mushroom, modified by me to change dashboard and cards appearance and font.
 # Also some custom variables are defined here to help with colors in light/dark mode.
 
-Adaptive Mushroom:
+Adaptive Fungi:
 
     ## HA variables
     #ha-card-box-shadow: inset 0px 0px 0px 1px var(--border-color) # borders, no shadow
